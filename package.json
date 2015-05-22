@@ -1,0 +1,19 @@
+{
+  "name": "npm-dev",
+  "version": "1.0.0",
+  "description": "Run your node.js server and automatically restart if needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hax/npm-dev.git"
+  },
+  "author": "hax <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/npm-dev/issues"
+  },
+  "homepage": "https://github.com/hax/npm-dev#readme"
+}
