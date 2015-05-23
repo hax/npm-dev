@@ -8,12 +8,12 @@ Run your node.js server and automatically restart if needed.
 This project is inspired by gulp-develop-server, but with some important
 differences:
 
-	* Zero configuration in most use cases
-	* Provide `npm-dev` cli
-	* Your node.js process is spawned in separate process group so all child
-		processes can be cleanly killed
-	* Better APIs (in my opinion :)
-	* Written in ES6+
+* Zero configuration in most use cases
+* Provide `npm-dev` cli
+* Your node.js process is spawned in separate process group so all child
+	processes can be cleanly killed
+* Better APIs (in my opinion :)
+* Written in ES6+
 
 ## Usage as a global tool
 
