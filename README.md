@@ -1,5 +1,7 @@
 # npm-dev -- Develop Server for NPM
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hax/npm-dev.svg)](https://greenkeeper.io/)
+
 Run your node.js server and automatically restart if needed.
 
 
